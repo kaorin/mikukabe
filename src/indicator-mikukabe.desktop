@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[ja_JP]=/usr/share/mikukabe/mikukabe.png
+Name[ja_JP]=みくかべ♪
+Exec=/usr/share/mikukabe/indicator-mikukabe.py
+Name=indicator-mikukabe
+Icon=/usr/share/mikukabe/mikukabe.png
+Categories=Utility;

@@ -1,0 +1,15 @@
+Source: indicator-mikukabe
+Section: utils
+Priority: extra
+Maintainer: Kaoru Konno(kaorin) <kaoru.konno@gmail.com>
+Build-Depends: cdbs (>=0.4.49), debhelper (>= 5), python-central (>=0.5.6)
+Build-Depends-Indep: python (>= 2.4), python-support
+XS-Python-Version: >= 2.4
+
+Package: indicator-mikukabe
+Version: 1.2.0.0
+Architecture: all
+Homepage: http://kaoru-linux.cocolog-nifty.com/blog/
+Depends: python, python-gtk2, python-indicate
+Description: mikukabe is Wallpaper Changer
+ mikukabe is Wallpaper Changer

@@ -1,0 +1,4 @@
+indicator-mikukabe.desktop /usr/share/applications/
+mikukabe.png /usr/share/mikukabe
+README.txt /usr/share/mikukabe
+indicator-mikukabe.py /usr/share/mikukabe
